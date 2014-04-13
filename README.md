@@ -1,6 +1,4 @@
-everywhere-eagle-viewer
-=====================
+NOTICE
+======
 
-Javascript viewer for Eagle Board layouts ...
-
-Work-in-progress!
+... a quick word about renaming.
