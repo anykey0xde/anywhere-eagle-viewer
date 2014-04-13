@@ -1,7 +1,7 @@
 NOTICE
 ======
 
-... a quick word about renaming.
+This repository has moved! The new location is [https://github.com/presseverykey/everywhere-eagle-viewer](https://github.com/presseverykey/everywhere-eagle-viewer).
 
 
 Just a quick notice to anyone potentially tracking these repositories: we've been informed that 
